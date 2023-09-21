@@ -1,3 +1,13 @@
 computer:
   cpu:
+    manufacturer: Dell
     cores: 8
+    frequency: 100
+  memory:
+    manufacturer: Intel
+    size:160
+    type:i5
+  disk:
+    manufacturer:HP
+    size: 500
+    type: 544t
