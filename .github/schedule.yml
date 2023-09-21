@@ -1,4 +1,6 @@
 schedule:
-  program: java
+  year: 2008
+  program: Devops
   lessons:
-    - date: "2022-02-01"
+      date: 2008
+      description: Hard course
