@@ -1,2 +1,6 @@
 car:
   manufacturer: volvo
+  model: S70
+  year: 2008
+  attributes: automat
+  reg: 2xy4yo
